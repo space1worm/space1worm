@@ -2,6 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Irakli 🇬🇪</h1>
 
+<a style="display: flex; justify-content: center; align-items:center" href="https://spacerr.vercel.app/">Portfolio</a>
+
 🛠️ 5 years of hands-on experience in crafting innovative software solutions. Proficient in a wide range of programming languages and technologies for both web and immersive experiences.
 
 👨‍💻 At the heart of it, I'm a problem solver. My expertise spans the realms of programming, web development, e-commerce, back-end architecture, and the exciting realms of VR, AR, and video game development.
