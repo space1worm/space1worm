@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Irakli 🇬🇪</h1>
 <p align="center">
-    <a  href="https://spacerr.vercel.app/">Portfolio</a>
+    <a style="font-weight: bold; font-size:26px" href="https://spacerr.vercel.app/">Portfolio</a>
 </p>
 
 🛠️ 5 years of hands-on experience in crafting innovative software solutions. Proficient in a wide range of programming languages and technologies for both web and immersive experiences.
