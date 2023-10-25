@@ -3,8 +3,8 @@ Check out [My Webpage](https://spacerr.vercel.app/) for more information
 ### I am
 - **Fullstack** **Developer** with over **5 years** of experience in the field.  
 
-## Currently I work
-- as a **Fullstack Developer** at [**EPAM**](https://www.epam.com/).
+## Current Position
+- **Fullstack Developer** at [**EPAM**](https://www.epam.com/).
 
 
 ## Companies worked at
