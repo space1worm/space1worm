@@ -1,7 +1,8 @@
-Check out [My Webpage](https://spacerr.vercel.app/) for more information
+# Hi 👋
 
-### I am
-- **Fullstack** **Developer** with over **5 years** of experience in the field.  
+I am Irakli **Fullstack** **Developer** with over **5 years** of experience in the field. 
+
+Check out [My Webpage](https://spacerr.vercel.app/) for more information
 
 ## Current Position
 - **Fullstack Developer** at [**EPAM**](https://www.epam.com/).
@@ -22,10 +23,11 @@ Check out [My Webpage](https://spacerr.vercel.app/) for more information
 ## Tech Stack
 - Typescript
 - Next.js
-- TailwindCSS
+- Nest.js
 - React Query
 - Prisma
 - PostgreSQL
+- TailwindCSS
 - *And more...*
 
 ## Skills
