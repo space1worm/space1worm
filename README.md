@@ -1,6 +1,6 @@
 # Hi 👋
 
-I am Irakli **Fullstack** **Developer** with over **5 years** of experience in the field. 
+~ I am Irakli **Fullstack** **Developer** with over **5 years** of experience in the field. 
 
 Check out [My Webpage](https://spacerr.vercel.app/) for more information
 
